@@ -1,0 +1,3 @@
+[submodule "data/communication_networks"]
+	path = data/communication_networks
+	url = https://huggingface.co/datasets/habedi/communication-networks
