@@ -1,5 +1,10 @@
 # GNNforUnresolvedQuestions
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/habedi/GNNforUnresolvedQuestions/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/habedi/GNNforUnresolvedQuestions.svg?style=plastic)](https://github.com/habedi/GNNforUnresolvedQuestions/issues)
+[![GitHub forks](https://img.shields.io/github/forks/habedi/GNNforUnresolvedQuestions.svg?style=plastic)](https://github.com/habedi/GNNforUnresolvedQuestions/network)
+[![GitHub stars](https://img.shields.io/github/stars/habedi/GNNforUnresolvedQuestions.svg?style=plastic)](https://github.com/habedi/GNNforUnresolvedQuestions/stargazers)
+
 The repository contains the code, data, and other artefacts for the paper X.
 
 ## Citation and License
