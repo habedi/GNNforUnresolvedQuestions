@@ -8,15 +8,23 @@
 [![GitHub forks](https://img.shields.io/github/forks/habedi/GNNforUnresolvedQuestions.svg?style=plastic)](https://github.com/habedi/GNNforUnresolvedQuestions/network)
 [![GitHub stars](https://img.shields.io/github/stars/habedi/GNNforUnresolvedQuestions.svg?style=plastic)](https://github.com/habedi/GNNforUnresolvedQuestions/stargazers)
 
-The repository contains the code, data, and other artefacts for the paper X.
-
-TO BE ADDED
+The repository contains the code, data, and other artefacts for the paper (A deep learning-based approach for identifying unresolved questions on Stack Exchange Q &A communities through graph-based communication modelling)[https://link.springer.com/article/10.1007/s41060-023-00454-0].
 
 ## Citation and License
 
 ### Citation
 
-TO BE ADDED
+If you use the material in this repository in your research, please use the information below to cite the paper:
+
+```
+@Article{AbediFirouzjaei2023,
+    author  = {Hassan Abedi Firouzjaei},
+    title   = {{A deep learning-based approach for identifying unresolved questions on Stack Exchange Q{\&}A communities through graph-based communication modelling}},
+    journal = {International Journal of Data Science and Analytics},
+    year    = {2023},
+    doi     = {10.1007/s41060-023-00454-0},
+}
+```
 
 ### License for the data
 
